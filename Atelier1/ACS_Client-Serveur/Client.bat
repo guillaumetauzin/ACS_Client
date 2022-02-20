@@ -1,0 +1,2 @@
+python DicClient.py
+PAUSE
