@@ -1,5 +1,5 @@
 # ACS_Client-serveur
-Architecture Clients/Serveur / Atelier1
+Architecture Clients/Serveur / Atelier 1 et 2 
 
 # Chercheur d'or
 Le dictionnaire contient des entrées au format :
